@@ -10,4 +10,4 @@ Image2GIF will help you to create gif animated image from multiple images. You n
 
 Put all the images sequentially in input directory and run `java Image2GIF`
 
-[![How it works?](https://cdn.dribbble.com/users/25514/screenshots/1614757/logo-design-golden-ratio-infinity.gif)](https://youtu.be/kODwTICL9Ms)
+[![How it works?](https://www.wyzowl.com/wp-content/uploads/2019/09/YouTube-Thumbnail-Size-Guide.png)](https://youtu.be/kODwTICL9Ms)
